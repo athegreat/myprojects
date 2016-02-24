@@ -1,0 +1,33 @@
+Tiempo Estimado Cifrado Variante Fabian: 0.6261065680000001 segundos
+Tiempo Estimado Cifrado Variante Fabian: 0.609050096 segundos
+Tiempo Estimado Cifrado Variante Fabian: 0.606203928 segundos
+Tiempo Estimado Descifrado Variante Fabian: 0.6263126520000001 segundos
+Tiempo Estimado Descifrado Variante Fabian: 0.613905369 segundos
+Tiempo Estimado Descifrado Variante Fabian: 0.598649046 segundos
+Tiempo Estimado Descifrado Variante Fabian: 0.5969814950000001 segundos
+Tiempo Estimado Cifrado Original: 0.0024466680000000004 segundos
+Tiempo Estimado Descifrado Original: 0.001784098 segundos
+Tiempo Estimado Descifrado Original: 4.97954E-4 segundos
+Tiempo Estimado Cifrado Original: 3.80553E-4 segundos
+Tiempo Estimado Cifrado Original: 3.37038E-4 segundos
+Tiempo Estimado Cifrado Original: 1.43683E-4 segundos
+Tiempo Estimado Cifrado Original: 0.009413665 segundos
+Tiempo Estimado Cifrado Variante Alvaro: 5.759620000000001E-4 segundos
+Tiempo Estimado Cifrado Original: 8.83031E-4 segundos
+Tiempo Estimado Cifrado Variante Alvaro: 1.42861E-4 segundos
+Tiempo Estimado Cifrado Variante Alejandra: 8.25148E-4 segundos
+Tiempo Estimado Descifrado Variante Alejandra: 0.003518989 segundos
+Tiempo Estimado Cifrado Original: 2.96807E-4 segundos
+Tiempo Estimado Cifrado Variante Alejandra: 5.8294E-5 segundos
+Tiempo Estimado Descifrado Variante Alejandra: 4.55269E-4 segundos
+Tiempo Estimado Cifrado Original: 4.4418400000000003E-4 segundos
+Tiempo Estimado Cifrado Variante Alejandra: 2.0197700000000002E-4 segundos
+Tiempo Estimado Descifrado Variante Alejandra: 0.001113745 segundos
+Tiempo Estimado Descifrado Variante Alejandra: 1.83503E-4 segundos
+Tiempo Estimado Cifrado Original: 5.83762E-4 segundos
+Tiempo Estimado Cifrado Triple-DES: 0.013043084000000002 segundos
+Tiempo Estimado Cifrado Original: 7.130760000000001E-4 segundos
+Tiempo Estimado Cifrado Original: 3.4483800000000003E-4 segundos
+Tiempo Estimado Cifrado Triple-DES: 0.0108821 segundos
+Tiempo Estimado Cifrado Variante Alejandra: 8.18579E-4 segundos
+Tiempo Estimado Descifrado Variante Alejandra: 0.0033921380000000003 segundos
